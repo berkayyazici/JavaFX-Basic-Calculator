@@ -1,4 +1,7 @@
 # JavaFX-Basic-Calculator
+
+I also added comments for each line of code that explain what the code does.
+
 Right click on the project name (my project name is Calculator) at the top left and click on Export. 
 We come to the Java section and click to create a Runnable JAR File. For the Launch configuration part, 
 I also created another class called FakeMain so my teacher can start the program. 
